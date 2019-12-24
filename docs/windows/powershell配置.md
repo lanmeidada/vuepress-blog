@@ -1,0 +1,1 @@
+# powershell配置

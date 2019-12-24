@@ -1,1 +1,5 @@
-# My Blog 
+---
+layout: login
+---
+
+<login />
