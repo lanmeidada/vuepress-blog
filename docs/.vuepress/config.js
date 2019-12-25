@@ -10,8 +10,10 @@ module.exports = {
   },
   themeConfig: {
     sidebarDepth: 1, // 将同时提取markdown中h2 和 h3 标题，显示在侧边栏上
+    search: false, // 禁用默认的搜索框
     lastUpdated: 'Last Updated' ,// 文档更新时间：每个文件git最后提交的时间
     logo: '/logo.gif',
+    smoothScroll: true, // 启用页面滚动效果
       // 顶部导航栏配置
     nav: [
       // 单项 text：显示文字，link：指向链接
