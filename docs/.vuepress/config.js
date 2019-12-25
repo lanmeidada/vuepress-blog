@@ -26,6 +26,10 @@ module.exports = {
         link: '/windows/powershell配置'
       },
       {
+        text: 'version',
+        link: '/version'
+      },
+      {
         text: '友情链接',
            // 这里是下拉列表展现形式。
         items: [
