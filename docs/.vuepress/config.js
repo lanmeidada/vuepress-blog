@@ -9,7 +9,7 @@ module.exports = {
     lineNumbers: true // 代码块显示行号
   },
   themeConfig: {
-    sidebarDepth: 1, // 将同时提取markdown中h2 和 h3 标题，显示在侧边栏上
+    sidebarDepth: 0, // 将同时提取markdown中h2 和 h3 标题，显示在侧边栏上
     search: false, // 禁用默认的搜索框
     lastUpdated: 'Last Updated' ,// 文档更新时间：每个文件git最后提交的时间
     logo: '/logo.gif',
