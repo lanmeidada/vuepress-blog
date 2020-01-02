@@ -19,3 +19,8 @@
     > 一款无敌有良心、无敌安全的搜索引擎，不会收集私人信息，保护私隐，没有Cookie，并且秘迹搜索聚合了百度、360、Bing、搜狗等搜索结果。
 - DogeDoge搜索 [https://www.dogedoge.com/](https://www.dogedoge.com/)
 - 小白盘 [https://www.xiaobaipan.com/](https://www.xiaobaipan.com/)
+## 工具类
+- 剪切板管理工具[https://sourceforge.net/projects/ditto-cp/](https://sourceforge.net/projects/ditto-cp/)
+    > Ditto 是一款免费开源的windows剪切板管理工具，可以用来批量的复制
+- ScreenToGif[https://www.screentogif.com/?l=zh_cn](https://www.screentogif.com/?l=zh_cn)
+    > 免费 Gif 屏幕录制工具,可以单独操作录制的帧。
