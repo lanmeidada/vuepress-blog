@@ -87,6 +87,12 @@ Import-Module oh-my-posh
 Set-Theme Agnoster
 ```
 ## oh-my-posh和主题配置永久生效，需设置profile文件
+先新建一个powershell的配置文件
+```shell script
+if (!(Test-Path -Path $PROFILE )) { 
+  New-Item -Type File -Path $PROFILE -Force
+}
+```
 先打开$profile文件
 ```shell script
 Notepad $profile
