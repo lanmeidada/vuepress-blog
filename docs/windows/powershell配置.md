@@ -93,11 +93,11 @@ if (!(Test-Path -Path $PROFILE )) {
   New-Item -Type File -Path $PROFILE -Force
 }
 ```
-先打开$profile文件
+然后打开$profile文件
 ```shell script
 Notepad $profile
 ```
-然后在文件里面输入，最后保存即可。
+最后在文件里面输入，最后保存即可。
 ```text
 Import-Module oh-my-posh
 Set-Theme Agnoster
