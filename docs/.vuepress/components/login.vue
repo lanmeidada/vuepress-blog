@@ -9,7 +9,7 @@
     methods: {
       goWindows()  {
         // VuePress会自动把文件夹里的 'README.md' 转换为 'index.html' 文件
-        this.$router.push({ path: '/windows/index.html'});
+        this.$router.push({ path: '/windows/powershell.html'});
       }
     }
 

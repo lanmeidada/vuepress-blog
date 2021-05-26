@@ -1,9 +1,9 @@
 module.exports = {
   title: 'lanmeidada',
   description: '蓝莓哒哒博客',
-  port: '8111',
-  base: '/Wiki1001Pro/', // 这是部署到github相关的配置
-  repo: '', // 添加 github 链接
+  port: '80',
+  base: '/',
+  repo: '',
   head: [['link', {rel:'icon', href:'/logo2.ico'}]],
   markdown: {
     lineNumbers: true // 代码块显示行号
@@ -22,7 +22,7 @@ module.exports = {
       // [以 '/' 结尾的默认指向该路径下README.md文件]
       {
         text: 'windows',
-        link: '/windows/powershell配置'
+        link: '/windows/powershell'
       },
       {
         text: 'javaScript',
@@ -52,9 +52,9 @@ module.exports = {
         'js去除字符串空白字符',
       ],
       '/windows/': [
-        'powershell配置',
-        'scoop使用',
-        'node多版本控制'
+        'powershell',
+        'scoop',
+        'node'
       ]
     }
   }
