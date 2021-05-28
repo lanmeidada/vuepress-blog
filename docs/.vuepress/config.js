@@ -29,6 +29,14 @@ module.exports = {
         link: '/javaScript/js去除字符串空白字符' // '/'默认为docs文件夹下的README.md文件
       },
       {
+        text: 'css',
+        link: '/css/水平垂直居中'
+      },
+      {
+        text: 'h5',
+        link: '/h5/h5-collect'
+      },
+      {
         text: 'resources',
         link: '/resources/website'
       },
@@ -48,14 +56,23 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/javaScript/': [
-        'js去除字符串空白字符',
-      ],
       '/windows/': [
         'powershell',
         'scoop',
         'node'
+      ],
+      '/javaScript/': [
+        'js去除字符串空白字符',
+          'Array.includes'
+      ],
+      '/css/': [
+        '水平垂直居中',
+        'footer吸底效果'
+      ],
+      '/h5/': [
+        'h5-collect'
       ]
+
     }
   }
 };
