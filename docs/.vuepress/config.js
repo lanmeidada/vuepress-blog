@@ -29,6 +29,10 @@ module.exports = {
         link: '/javaScript/js去除字符串空白字符' // '/'默认为docs文件夹下的README.md文件
       },
       {
+        text: 'h5',
+        link: '/h5/h5-collect' // '/'默认为docs文件夹下的README.md文件
+      },
+      {
         text: 'resources',
         link: '/resources/website'
       },
