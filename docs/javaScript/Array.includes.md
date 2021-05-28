@@ -1,4 +1,4 @@
-## 1. 使用 Array.includes 来处理多重条件
+# 使用 Array.includes 来处理多重条件
 ```javascript
 /**
  * 使用 Array.includes 来处理多重条件
